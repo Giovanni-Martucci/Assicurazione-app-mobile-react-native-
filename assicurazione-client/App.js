@@ -8,12 +8,12 @@ import Details from "./components/Details";
 import * as firebase from "firebase";
 
 var config = {
-  apiKey: "AIzaSyAOQWcSIhSad9BvEM3Aj-psdlEXpJMQUP4",
-  authDomain: "assicurazione-6d1c4.firebaseapp.com",
-  databaseURL: "https://assicurazione-6d1c4.firebaseio.com",
-  projectId: "assicurazione-6d1c4",
-  storageBucket: "assicurazione-6d1c4.appspot.com",
-  messagingSenderId: "597789520191"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: ""
 };
 !firebase.apps.length ? firebase.initializeApp(config) : null;
 
