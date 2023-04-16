@@ -1,3 +1,3 @@
-# Assicurazione-app-mobile-react-native
+# Insurance-app-mobile-react-native
 
-Queste due applicazioni sono state progettate per l'uso da parte di un'agenzia assicurativa. In particolare, ci sono due versioni, una per i clienti e una per gli assicuratori. La versione per i clienti consente di inviare immediatamente al proprio perito foto, posizione e altri dettagli di un sinistro stradale. La versione per gli assicuratori fornirà un elenco di tutti i sinistri stradali effettuati dai clienti. Le applicazioni sono state sviluppate utilizzando React-Native con l'aggiunta di Firebase.
+These two applications have been designed for use by an insurance agency. In particular, there are two versions, one for customers and one for insurers. The customer version allows for the immediate sending of photos, location, and other details of a road accident to their own assessor. The insurer version will provide a list of all road accidents made by customers. The applications were developed using React-Native with the addition of Firebase.
